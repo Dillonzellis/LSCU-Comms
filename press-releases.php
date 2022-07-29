@@ -127,6 +127,12 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="docs/press2022/7-28-22 - LSCU Endorses Buddy Carter for Congress.pdf" target="_blank">July 28th - LSCU Endorses Buddy Carter for Congress</a></div>
+                                        </div>
+                                        <!--end item-->
+
+                                        <div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
                                             <div class="text"><a href="docs/press2022/7-27-22 - LSCU Endorses Rutherford Castor and Donalds for Congress.pdf" target="_blank">July 27th - LSCU Endorses Rutherford Castor and Donalds for Congress</a></div>
                                         </div>
                                         <!--end item-->
