@@ -127,6 +127,12 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="./docs/press2022/08.29.2022-SECUF Community Spark Scholarships Awarded PRESS RELEASE.pdf" target="_blank">August 29th - Southeastern Credit Union Foundation Awards Scholarships to Two College Students for New Community Spark Program</a></div>
+                                        </div>
+                                        <!--end item-->
+
+                                        <div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
                                             <div class="text"><a href="docs/press2022/7-28-22 - LSCU Endorses Buddy Carter for Congress.pdf" target="_blank">July 28th - LSCU Endorses Buddy Carter for Congress</a></div>
                                         </div>
                                         <!--end item-->
